@@ -75,12 +75,7 @@ When I'm not writing code or studying ML algorithms, I'm usually:
 
 ### 📈 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moudjib16&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moudjib16&theme=radium&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moudjib16&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
-</div>
+![GitHub Stats](https://ghstats.dev/api/card?username=Moudjib16)
 
 ---
 
@@ -88,9 +83,6 @@ When I'm not writing code or studying ML algorithms, I'm usually:
 
 <p align="left">
   <a href="https://github.com/Moudjib16"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <!-- Add your links below -->
-  <!-- <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
-  <!-- <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> -->
 </p>
 
 > 💡 Open to internships, freelance projects, and collaboration on AI + Web apps.
