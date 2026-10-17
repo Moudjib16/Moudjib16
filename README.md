@@ -3,7 +3,7 @@
 <h3 align="center">AI & Data Science Engineering Student | Full-Stack Developer | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  Fifth-year Engineering Student at <b>ESTIN</b> (State Engineer + Master 2) in <b>Artificial Intelligence & Data Science</b>.<br>
+  Fifth-year Engineering Student at <b>ESTIN</b>  in <b>Artificial Intelligence & Data Science</b>.<br>
   I bridge complex ML models and scalable modern web apps, with a strong foundation in networks, Linux & security.
 </p>
 
@@ -11,12 +11,11 @@
 
 ### 🚀 About Me
 
-- 🎓 Engineering Student @ ESTIN — AI & Data Science (5th year, dual-degree Engineer + Master 2)
+- 🎓 Engineering Student @ ESTIN — AI & Data Science
 - 🤖 Focused on Machine Learning, Deep Learning & Data Science → production-ready apps
 - 💻 Full-Stack Developer: React / Next.js / Node.js / Express / Tailwind
 - 🔐 Interested in Cybersecurity, Networking & Linux Sysadmin (Arch Linux)
 - 📚 Always learning: MLOps, LLMs, System Design
-- ⚡ Ask me about Python, PyTorch, React, Linux
 
 ---
 
