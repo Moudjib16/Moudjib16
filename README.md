@@ -84,12 +84,12 @@ When I'm not writing code or studying ML algorithms, I'm usually:
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moudjib16&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub stats" height="165" />
-  <img src="https://streak-stats.demolab.com?user=Moudjib16&hide_border=true&theme=transparent" alt="GitHub streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Moudjib16&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&v=2" alt="GitHub stats" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Moudjib16&hide_border=true&theme=github-dark&v=2" alt="GitHub streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moudjib16&theme=github-compact&hide_border=true" alt="Contribution activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moudjib16&theme=github_dark&v=2" alt="Profile summary" />
 </p>
 
 ---
