@@ -1,30 +1,30 @@
 <h1 align="center">👋 Hi, I'm Abdelmoudjib</h1>
 
-<h3 align="center">AI &amp; Data Science Engineer · Full-Stack Developer · Security-minded Builder</h3>
+<h3 align="center">AI &amp; Data Science · Security &amp; Networking · Web Development</h3>
 
 <p align="center">
-  Final-year Engineering Student at <b>ESTIN</b>, specializing in <b>Artificial Intelligence &amp; Data Science</b>.<br>
-  I like taking ideas all the way from a notebook to a working, deployable product.
+  Final-year engineering student at <b>ESTIN</b>, studying <b>AI &amp; Data Science</b>.<br>
+  Most of my time goes into training models, building web apps, and breaking (then fixing) networks in my homelab.
 </p>
 
 <p align="center">
-  📍 Based in Algeria · 🎯 Open to internships, freelance projects &amp; AI + Web collaborations<br>
+  📍 Constantine, Algeria · Open to internships and interesting collaborations
 </p>
 
 <p align="center">
   <a href="https://github.com/Moudjib16"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/abdelmoudjib-zerrougue-56a1aa260/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:a_zerrougue@estin.dz"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:zerrouguemoudjib@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🤖 Focused on Machine Learning, Deep Learning & Data Science → production-ready apps
-- 💻 Full-Stack Developer: React / Next.js / Node.js / Express / Tailwind
-- 🔐 Interested in Cybersecurity, Networking & Linux Sysadmin
-- 📚 Always learning: MLOps, LLMs, System Design
+- 🤖 I build ML models and try to get them out of the notebook: explainable tabular models, medical imaging with Grad-CAM, and RAG chatbots
+- 🔐 On the security side I set up firewalls and IDS/IPS (pfSense, Suricata), deal with TLS and Linux hardening, and do CTFs when I get the chance
+- 💻 I also do web development, mostly Next.js, React and Node with PostgreSQL or MongoDB behind it
+- 📚 Right now I'm learning more about cloud security, MLOps and how bigger systems are designed
 
 ---
 
@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge" alt="XGBoost" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 </p>
 
@@ -62,30 +63,45 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" alt="Qdrant" />
 </p>
 
-**Systems, Networking &amp; Tools**
+**Security, Networking &amp; DevOps**
+
+<p>
+  <img src="https://img.shields.io/badge/pfSense-000000?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense" />
+  <img src="https://img.shields.io/badge/Suricata-EF7F1A?style=for-the-badge" alt="Suricata" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+**Other Languages**
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
-  <img src="https://img.shields.io/badge/pfSense-000000?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
 ---
 
 ## 🎮 Beyond the Code
 
-When I'm not writing code or studying ML algorithms, I'm usually:
+When I'm not coding or studying, I'm probably:
 
-- 🛠️ Tinkering with hardware and custom PC builds
-- 🐧 Ricing and customizing Arch Linux
-- 🌐 Experimenting with homelabs and console modding
-- 🔐 Exploring cybersecurity labs &amp; CTFs
-- 🎮 Gaming and exploring new tech
+- 🛠️ Building or upgrading PCs, and messing with hardware in general
+- 🐧 Ricing my Arch setup (it's never finished)
+- 🌐 Running homelab experiments and modding old consoles
+- 🚩 Doing CTFs: I write up the PicoCTF challenges I solve, and I played NexTrace CTF 2025
+- 🎮 Gaming
 
 ---
 
@@ -105,11 +121,11 @@ When I'm not writing code or studying ML algorithms, I'm usually:
 ## 📫 Let's Connect
 
 <p align="center">
-  Got an interesting idea, an internship, or a problem worth solving? My inbox is open — let's talk.
+  If you're working on something in ML, security or web and want another pair of hands, or just want to talk tech, feel free to reach out.
 </p>
 
 <p align="center">
   <a href="https://github.com/Moudjib16"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/abdelmoudjib-zerrougue-56a1aa260/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:a_zerrougue@estin.dz"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:zerrouguemoudjib@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
